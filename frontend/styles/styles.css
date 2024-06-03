@@ -53,3 +53,10 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+/* Estilos específicos para la página de carros */
+.car-background {
+    background-image: url('/car-reservation-app/images/fondo.jpg'); /* Reemplaza 'car_background.jpg' con la ruta de tu imagen de fondo */
+    background-size: cover;
+    background-position: center;
+}
